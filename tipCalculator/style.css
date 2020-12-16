@@ -18,15 +18,15 @@
 #middle{
 	margin-left : 3%;
 	border-left : 2px lightgrey solid;
-	padding : 5% 3%;
+	padding : 5% 15% 5% 3%;
 }
 
-#middle h3{
+#middle h4{
 	margin-bottom : 0;
 }
 
 .sec-one{
-	margin-bottom : 13%;
+	margin-bottom : 50%;
 }
 
 #middle small{

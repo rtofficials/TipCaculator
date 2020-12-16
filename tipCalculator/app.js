@@ -32,7 +32,7 @@ class Total{
     }
 }
 
-function myFuntion(){
+function myFunction(){
     const bill = document.getElementByName("bill").value;
     const tipPercentage = document.getElementByName("tip-percent").value;
     const people = document.getElementByName("people").value;
