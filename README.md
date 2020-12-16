@@ -1,0 +1,2 @@
+# TipCaculator
+JavaScript classes based
