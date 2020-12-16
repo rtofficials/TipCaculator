@@ -1,0 +1,46 @@
+*{
+	padding : 0;
+	margin-top : 0;
+	box-sizing: border-box;
+}
+
+
+.container{
+	margin-top : 20%;
+}
+
+.row{
+	border : 2px lightgrey solid;
+	padding : 2%;
+	border-radius : 2%;
+}
+
+#middle{
+	margin-left : 3%;
+	border-left : 2px lightgrey solid;
+	padding : 5% 15% 5% 3%;
+}
+
+#middle h4{
+	margin-bottom : 0;
+}
+
+.sec-one{
+	margin-bottom : 50%;
+}
+
+#middle small{
+	color : grey;
+}
+
+#last-col{
+	padding : 6% 3%;
+}
+
+label{
+	color : grey;
+}
+
+.btn{
+	margin-top : 2%; 
+}
